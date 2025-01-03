@@ -1,0 +1,76 @@
+Uri: https://d9cshxmf0qazr.cloudfront.net/d83e979.js
+File Name: C:\Downloaded Web Sites\robuxus.com\d83e979.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@520&family=Mochiy+Pop+One&family=Nunito:wght@200&family=Poppins:wght@400;600;700;900&family=REM:wght@300&family=Varela+Round&display=swap
+File Name: C:\Downloaded Web Sites\robuxus.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/kumbhsans/v22/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQo5YA8Q.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\kumbhsans\v22\c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQo5YA8Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kumbhsans/v22/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQT5EA8Q.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\kumbhsans\v22\c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQT5EA8Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mochiypopone/v10/QdVPSTA9Jh-gg-5XZP2UmU4O9kww.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\mochiypopone\v10\QdVPSTA9Jh-gg-5XZP2UmU4O9kww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\poppins\v22\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\poppins\v22\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rem/v2/WnzgHAIoSDyHbRjfsYumpRvUPJzqrTo.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\rem\v2\WnzgHAIoSDyHbRjfsYumpRvUPJzqrTo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/varelaround/v20/w8gdH283Tvk__Lua32TysjIvoA.ttf
+File Name: C:\Downloaded Web Sites\robuxus.com\s\varelaround\v20\w8gdH283Tvk__Lua32TysjIvoA.ttf
+Content Type: font/ttf
+
+Uri: https://i.postimg.cc/V6HQ99HJ/hd-roblox-black-symbol-sign-icon-logo-png-70175169478745256ylmn6eud-removebg-preview.png
+File Name: C:\Downloaded Web Sites\robuxus.com\V6HQ99HJ\hd-roblox-black-symbol-sign-icon-logo-png-70175169478745256ylmn6eud-removebg-preview.png
+Content Type: image/png
+
+Uri: https://images.rbxcdn.com/9a75b1267d260322206e98bd256138d4-premium_title_bg.jpg
+File Name: C:\Downloaded Web Sites\robuxus.com\9a75b1267d260322206e98bd256138d4-premium_title_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://lilphawdaily.netlify.app/app.js
+File Name: C:\Downloaded Web Sites\robuxus.com\app.js
+Content Type: application/javascript
+
+Uri: https://robuxus.com/
+File Name: C:\Downloaded Web Sites\robuxus.com\index.htm
+Content Type: text/html
+
+Uri: https://robuxus.com/samue.png
+File Name: C:\Downloaded Web Sites\robuxus.com\samue.png.html
+Content Type: text/html
+
+Uri: https://robuxus.com/sara1.png
+File Name: C:\Downloaded Web Sites\robuxus.com\sara1.png.html
+Content Type: text/html
+
+Uri: https://zr-dqb.pages.dev/robux-removebg-preview.png
+File Name: C:\Downloaded Web Sites\robuxus.com\robux-removebg-preview.png
+Content Type: image/png
+
